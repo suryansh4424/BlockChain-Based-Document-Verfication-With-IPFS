@@ -19,14 +19,16 @@ This project aims to create a secure and decentralized system for document verif
 ## Installation
 
 1. Clone this repository: 
-``https://github.com/DevAloshe/BlockChain-Based-Document-Verfication-With-IPFS.git``
+```bash
+https://github.com/suryansh4424/BlockChain-Based-Document-Verfication-With-IPFS.git
+```
 
 
 2. Install the required packages:
 
-``cd BlockChain-Based-Document-Verfication-With-IPFS
-npm install``
-
+```bash
+cd BlockChain-Based-Document-Verfication-With-IPFS npm install
+```
 
 3. Open the application in your browser using Live Server Extension .
 
